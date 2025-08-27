@@ -87,7 +87,7 @@
 		code_interpreter: true,
 		citations: true,
 		usage: undefined,
-		enable_docling: true
+		enable_docling: false
 	};
 
 	let knowledge = [];
